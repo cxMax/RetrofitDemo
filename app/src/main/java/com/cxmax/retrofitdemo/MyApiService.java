@@ -4,9 +4,9 @@ import com.cxmax.retrofitdemo.bean.IpResult;
 import com.cxmax.retrofitdemo.bean.SouguBean;
 import com.cxmax.retrofitdemo.retrofit.BaseResponse;
 
-import io.reactivex.Observable;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
+import rx.Observable;
 
 /**
  * Created by cxmax on 2017/2/13.
